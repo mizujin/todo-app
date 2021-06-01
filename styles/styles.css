@@ -1,0 +1,10 @@
+body {
+  background-image: url('../images/bg-desktop-light.jpg');
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}

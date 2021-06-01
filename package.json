@@ -1,0 +1,22 @@
+{
+  "name": "todo-app-main",
+  "version": "1.0.0",
+  "description": "Todo app Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizujin/todo-app.git"
+  },
+  "author": "Remi Fortier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizujin/todo-app/issues"
+  },
+  "homepage": "https://github.com/mizujin/todo-app#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
